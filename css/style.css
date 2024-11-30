@@ -1,0 +1,36 @@
+body {
+    margin: 50px 25px;
+}
+
+#title {
+    color: brown;
+    font-size: 50px;
+}
+
+#word {
+    color: brown;
+    font-size: 50px;
+}
+
+.titles {
+    color: brown;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.box {
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+    border: 5px solid yellow;
+    border-radius: 15px;
+    padding: 0px 30px 20px;
+    height: 500px;
+    opacity: 100%;
+
+    background-image: url("../public/coding-cartoon-resized.jpg");
+    background-repeat: repeat-x;
+}
+
+.photos {
+    border-radius: 10px;
+}
